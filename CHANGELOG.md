@@ -1,6 +1,6 @@
 # Changelog
 
-## Unreleased
+## 0.11.0 (2020-08-06)
 
  - Remove python 2 support.
  - Add support for pyo3 `0.12`'s `PYO3_PYTHON` setting.
